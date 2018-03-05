@@ -6,6 +6,8 @@ Description:
 
 This is a Customed "Consolas" Font, Keep all Latin characters of Consolas，and added Chinese Characters of Microsoft Yahei. Forked from [Consolas-with-Yahei](github.com/edward-p/Consolas-with-Yahei)
 
+This version patched the font with proper powerline characters to enhance terminal experiences.
+
 Different From "Yahei Consolas Hybrid"
 ---
 
@@ -21,3 +23,4 @@ Screen Shots:
 Additonal Tips:
 ---
 Created by FontCreator
+powerline characters patched with [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
