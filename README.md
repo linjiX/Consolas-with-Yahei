@@ -23,4 +23,5 @@ Screen Shots:
 Additonal Tips:
 ---
 Created by FontCreator
+
 powerline characters patched with [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
