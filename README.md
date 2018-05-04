@@ -25,3 +25,5 @@ Additonal Tips:
 Created by FontCreator
 
 powerline characters patched with [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
+
+Patch description is [here](https://www.jianshu.com/p/e62bbbf31e85)
