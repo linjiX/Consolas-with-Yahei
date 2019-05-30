@@ -27,3 +27,5 @@ Created by FontCreator
 powerline characters patched with [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
 
 Patch description is [here](https://www.jianshu.com/p/e62bbbf31e85)
+
+The name "Consolas-with-Yahei" results in "invalid font name error" in Spacemacs because of the hyphen. Use a font editor like [FontForge](http://fontforge.github.io/en-US/) to edit the name.
