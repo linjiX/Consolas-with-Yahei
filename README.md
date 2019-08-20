@@ -16,15 +16,15 @@ This font is called "Consolas-with-Yahei" (Keep all original characters of Conso
 Screen Shots:
 ---
 
-![image](https://github.com/edward-p/Consolas-with-Yahei/raw/master/Screenshots/js.png "Javascript")
+![image](https://github.com/linjiX/Consolas-with-Yahei/raw/master/Screenshots/js.png "Javascript")
 
-![image](https://github.com/edward-p/Consolas-with-Yahei/raw/master/Screenshots/md.png "Markdown")
+![image](https://github.com/linjiX/Consolas-with-Yahei/raw/master/Screenshots/md.png "Markdown")
 
 Additonal Tips:
 ---
 Created by FontCreator
 
-powerline characters patched with [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
+Patched all available Glyphs (include powerline characters) with [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
 
 Patch description is [here](https://www.jianshu.com/p/e62bbbf31e85)
 
